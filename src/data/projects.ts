@@ -51,7 +51,7 @@ export const projects: Project[] = [
     videoZoom: 100,
     videoDim: 75,
     webAppUrl: "https://hybrid-hour.ddnsfree.com/",
-    repoUrl: "https://github.com/allanmichaelhender/Hybrid-Hour",
+    repoUrl: "https://github.com/allanmichaelhender/hybrid_AI_coach",
     tags: [
       "FastAPI",
       "LangGraph",
