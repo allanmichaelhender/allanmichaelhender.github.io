@@ -79,8 +79,7 @@ export const projects: Project[] = [
     videoZoom: 100,
     videoDim: 75,
     webAppUrl: "https://guinea-pig-portfolio.ddnsfree.com/",
-    repoUrl:
-      "https://github.com/allanmichaelhender/guinea-pig-portfolio-django-react",
+    repoUrl: "https://github.com/allanmichaelhender/guniea-pig-v2",
     tags: [
       "Django",
       "Django Ninja",
