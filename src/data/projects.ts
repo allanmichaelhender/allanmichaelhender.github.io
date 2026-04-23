@@ -97,4 +97,28 @@ export const projects: Project[] = [
       "AWS",
     ],
   },
+  {
+    id: "repo-review",
+    title: "Repo Review",
+    briefDescription: "AI Code Analysis",
+    fullDescription:
+      "Analysis and suggestions on  user submitted GitHub repositories and code. Leveraging AI LLM's to provide oversight on code quality, best practices, and potential improvements.",
+    images: [],
+    videos: ["/guinea-pig-footage-trimmed.mp4"],
+    videoZoom: 100,
+    videoDim: 75,
+    webAppUrl: "https://repo-reviewer.ddnsfree.com/",
+    repoUrl: "https://github.com/allanmichaelhender/code-review-ai",
+    tags: [
+      "Spring Boot",
+      "PostgreSQL",
+      "Redis",
+      "Gemini",
+      "React",
+      "TypeScript",
+      "Tailwind",
+      "Docker",
+      "AWS",
+    ],
+  },
 ];
