@@ -97,6 +97,7 @@ export const projects: Project[] = [
       "AWS",
     ],
   },
+  /*
   {
     id: "repo-review",
     title: "Repo Review",
@@ -121,4 +122,5 @@ export const projects: Project[] = [
       "AWS",
     ],
   },
+  */
 ];
