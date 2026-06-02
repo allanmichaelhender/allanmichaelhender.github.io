@@ -15,7 +15,7 @@ export default function RightPanel({
     <div
       className="right-panel"
       style={{
-        width: "20%",
+        width: "22%",
         height: "100vh",
         background: "transparent",
         display: "flex",

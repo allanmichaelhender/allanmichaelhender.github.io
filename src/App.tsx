@@ -1,6 +1,7 @@
 import { useState } from "react";
 import LeftPanel from "./components/LeftPanel";
 import RightPanel from "./components/RightPanel";
+import SideQuestsPanel from "./components/SideQuestsPanel";
 import Background from "./components/Background";
 import ContactModal from "./components/ContactModal";
 import { projects } from "./data/projects";
@@ -24,6 +25,7 @@ function App() {
         }}
         onClick={() => setHoveredProjectId(null)}
       >
+        <SideQuestsPanel />
         <LeftPanel
           hoveredProjectId={hoveredProjectId}
           onHover={setHoveredProjectId}

@@ -23,7 +23,7 @@ export default function LeftPanel({
     <div
       className="left-panel"
       style={{
-        width: "80%",
+        flex: 1,
         height: "100vh",
         display: "flex",
         flexDirection: "column",
