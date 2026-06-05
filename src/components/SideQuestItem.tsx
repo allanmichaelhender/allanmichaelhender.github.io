@@ -33,7 +33,7 @@ export default function SideQuestItem({ project }: SideQuestItemProps) {
     >
       <motion.h3
         style={{
-          fontSize: "15px",
+          fontSize: "14px",
           fontWeight: "bold",
           marginBottom: "8px",
           textAlign: "center",
@@ -58,7 +58,7 @@ export default function SideQuestItem({ project }: SideQuestItemProps) {
       )}
       <p
         style={{
-          fontSize: "14px",
+          fontSize: "13px",
           color: isLive ? "#9ca3af" : "#4b5563",
           textAlign: "center",
         }}
